@@ -6,6 +6,8 @@ Inspired by [the original Flutter implementation](https://github.com/yunweneric/
 
 ### This is how it looks 📸
 
+https://github.com/user-attachments/assets/a664e13c-b0c2-4634-b719-d3adc4e1dae5
+
 
 
 ## 🛠️ Tech Stack
